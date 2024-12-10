@@ -1,4 +1,4 @@
-from utils.WorldMap import WorldMap
+
 import sys
 import random
 import string
