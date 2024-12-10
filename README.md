@@ -15,4 +15,6 @@ N.B.: If you want to modify the positioning strategy or else, you have to modify
 Example
 Check the file example.py to have a short example on how instantiate the simulaton
 
-after installing the lorawan 1.1 simulator, you have to implement respective parts of the network in it as it is modified as per the PoT  blockchain simulation 
+after installing the lorawan 1.1 simulator, you have to implement respective parts of the network in it as it is modified as per the PoT  blockchain simulation
+
+Everything is implemented in Python. HAVE FUN :)
