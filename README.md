@@ -18,3 +18,9 @@ Check the file example.py to have a short example on how instantiate the simulat
 after installing the lorawan 1.1 simulator, you have to implement respective parts of the network in it as it is modified as per the PoT  blockchain simulation
 
 Everything is implemented in Python. HAVE FUN :)
+
+P.S
+
+after installing the following simulator.. run the simulator as it is and then make the changes to see the difference 
+https://github.com/CescWilliam3636/LoRaWAN-1.1-simulator.git
+
