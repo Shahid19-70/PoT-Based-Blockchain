@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed097645-525c-45f0-8cb2-0bd1a94e0410)# PoT-Based-Blockchain
+
 The PoT-based blockchain LoRaWAN architecture aims to process the join procedure in the network servers instead of the join servers. For this, the join servers send their data (DevEUI associated with end devices authorized to connect to the network) to the network servers, which create blocks to compose the blockchain.
 
 ![PoT](https://github.com/user-attachments/assets/3dfeebe9-6544-4b09-bda2-2a2ee0c73f3b)
